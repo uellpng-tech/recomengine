@@ -18,7 +18,7 @@ O intuito principal do projeto é mostrar a manipulação do algoritmo e o preju
 
 A iniciativa do evento é influênciar a busca por educação e trazer o reconhecimento a profissionais e estudiosos importantes. O evento inicialmente introduz aos estudantes uma atividade com regras especificas, partindo desse ponto os grupos montados para seguir a ideia sem sair da regra deve criar um projeto com base na quilo. 
 
-Paulo Freire foi um educador e filóisofo brasileiro, reconhecimo mundialmente. Além do conceito inicial a intenção do projeto é influênciar também a visibilidade de estudiosos e profissionais brasileiros, Paulo Freire foi um dos Patronos da educação no Brasil, ele revolucionou a alfabetização de adultos criando métodos baseados na realidade dos alunos, além disso possuiu muitos outros feitos, assim sendo um marco para sociedade como um todo. A intenção desse evento também é mostrar quem foi Paulo Freire.
+Paulo Freire foi um educador e filóisofo brasileiro, reconhecido mundialmente. Além do conceito inicial a intenção do projeto é influênciar também a visibilidade de estudiosos e profissionais brasileiros, Paulo Freire foi um dos Patronos da educação no Brasil, ele revolucionou a alfabetização de adultos criando métodos baseados na realidade dos alunos, além disso possuiu muitos outros feitos, assim sendo um marco para sociedade como um todo. A intenção desse evento também é mostrar quem foi Paulo Freire.
 
 ## Conceito
 
