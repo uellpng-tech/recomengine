@@ -29,6 +29,20 @@ O RecomEngine possui uma estrutura bem simples. A estrutura do projeto conta com
 - [main.py](main.py)
 - [pre-projeto](pre-projeto.docx)
 
+## Como executar o projeto
+
+1. Clone o repositório https://github.com/uellpng-tech/recomengine.git
+
+2. Acesse a pasta do projeto "recomengine"
+
+3. Crie um ambiente virtual python3 -m venv venv (opcional)
+
+4. Ative o ambiente virtual "venv\Scripts\activate"
+
+5. Instale as dependências "pip install -r requirements.txt"
+
+6. Execute o programa "python main.py"
+
 ## Paulo Freire
 
 A iniciativa do evento é influênciar a busca por educação e trazer o reconhecimento a profissionais e estudiosos importantes. O evento inicialmente introduz aos estudantes uma atividade com regras especificas, partindo desse ponto os grupos montados para seguir a ideia sem sair da regra deve criar um projeto com base na quilo. 
